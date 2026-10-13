@@ -33,8 +33,6 @@
 
 2. **دریافت مدل زبانی:**
    یک ترمینال (PowerShell یا CMD) باز کنید و مدل Qwen 2.5 را دانلود و تست کنید:
-```bash
-   ollama run qwen2.5:1.5b
    
 
 
@@ -48,6 +46,8 @@
 ```bash
 git clone https://github.com/MehranZexo/jarvis-offline.git
 cd jarvis-offline
+
+ollama run qwen2.5:1.5b
 
 python -m venv venv
 # در PowerShell ویندوز:
