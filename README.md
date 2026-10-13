@@ -34,7 +34,7 @@
 2. **دریافت مدل زبانی:**
    یک ترمینال (PowerShell یا CMD) باز کنید و مدل Qwen 2.5 را دانلود و تست کنید:
    
-
+https://huggingface.co/Qwen/Qwen2.5-1.5B-Instruct-GGUF
 
 
 ---
